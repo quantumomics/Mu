@@ -13,5 +13,6 @@ LEDs or Light Emitting Diode(s) create light by electroluminescence in a semicon
 - Red and Infrared LEDs are made with GaAs — gallium arsenide.
 - Bright Blue is made with GaN — gallium nitride.
 - White LEDs are made with YAG, Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> — yttrium aluminum garnet.
+- Orange LEDs are made with AlGaInP — Aluminium gallium indium phosphide.
 
 <b>Note:</b> There are also orange, green, blue, violet, purple, ultraviolet LEDs.
