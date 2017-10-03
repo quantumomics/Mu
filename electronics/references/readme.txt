@@ -10,3 +10,4 @@ References
 7. Effective Manipulation of the Electronic Effects and Its Influence on the Emission of 5-Substituted Tris(8-quinolinolate) Aluminum(III) Complexes.
 8. Luminescent compounds diphenylboron analogs of Alq3 and its methyl substituents: A theoretical investigation of their electronic and spectroscopic properties.
 9. Blue Emitting 3 π–2 Spiro Terfluorene–Indenofluorene Isomers: A Structure–Properties Relationship Study.
+10. Luminescent compounds diphenylboron analogs of Alq3 and its methyl substituents: A theoretical investigation of their electronic and spectroscopic properties.
