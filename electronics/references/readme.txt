@@ -11,3 +11,4 @@ References
 8. Luminescent compounds diphenylboron analogs of Alq3 and its methyl substituents: A theoretical investigation of their electronic and spectroscopic properties.
 9. Blue Emitting 3 π–2 Spiro Terfluorene–Indenofluorene Isomers: A Structure–Properties Relationship Study.
 10. Luminescent compounds diphenylboron analogs of Alq3 and its methyl substituents: A theoretical investigation of their electronic and spectroscopic properties.
+11. Electronic structure of the organic semiconductor Alq3Alq3 (aluminum tris-8-hydroxyquinoline) from soft x-ray spectroscopies and density functional theory calculations.
