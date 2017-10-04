@@ -16,3 +16,6 @@ LEDs or Light Emitting Diode(s) create light by electroluminescence in a semicon
 - Orange LEDs are made with AlGaInP — Aluminium gallium indium phosphide.
 
 <b>Note:</b> There are also orange, green, blue, violet, purple, ultraviolet LEDs.
+
+## Resistor
+Resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses. Resistors are common elements of electrical networks and electronic circuits and are ubiquitous in electronic equipment.
