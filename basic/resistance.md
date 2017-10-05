@@ -18,4 +18,4 @@ There are several factors that affect the resistance of a conductor:—</br>
 What is the resistivity of a material?
 
 <b>Answer:</b>
-The electrical resistivity of a material is also known as its specific electrical resistance. It is a measure of how strongly a material opposes the flow of electric current. <b>"A definition of resistivity is the electrical resistance per unit length and per unit of cross-sectional area"</b>.
+The electrical resistivity of a material is also known as it's <b><i>specific electrical resistance</i></b>. It is a measure of how strongly a material opposes the flow of electric current. <b>"A definition of resistivity is the electrical resistance per unit length and per unit of cross-sectional area"</b>.
