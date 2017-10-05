@@ -13,3 +13,9 @@ There are several factors that affect the resistance of a conductor:—</br>
 - length - longer wires have greater resistance.
 - thickness - smaller diameter wires have greater resistance.
 - temperature - heating a wire increases its resistance.
+
+<b>Q.2</b>
+What is the resistivity of a material?
+
+<b>Answer:</b>
+The electrical resistivity of a material is also known as its specific electrical resistance. It is a measure of how strongly a material opposes the flow of electric current. <b>"A definition of resistivity is the electrical resistance per unit length and per unit of cross-sectional area"</b>.
