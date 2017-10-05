@@ -19,3 +19,9 @@ What is the resistivity of a material?
 
 <b>Answer:</b>
 The electrical resistivity of a material is also known as it's <b><i>specific electrical resistance</i></b>. It is a measure of how strongly a material opposes the flow of electric current. <b>"A definition of resistivity is the electrical resistance per unit length and per unit of cross-sectional area"</b>.
+
+<b>Q.3</b>
+What is the difference between resistance and resistivity?
+
+<b>Answer:</b>
+Resistance tells that, "the specific number of <i>ohms</i> that a phsyical piece of conductor has". Resistivity is the electrical property of a material. The resistance of a specific length and cross sectional area piece of that material (e.g. like carbon, silver, gold or copper) can be calculated using the resistivity property.
