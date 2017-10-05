@@ -25,3 +25,11 @@ What is the difference between resistance and resistivity?
 
 <b>Answer:</b>
 Resistance tells that, "the specific number of <i>ohms</i> that a phsyical piece of conductor has". Resistivity is the electrical property of a material. The resistance of a specific length and cross sectional area piece of that material (e.g. like carbon, silver, gold or copper) can be calculated using the resistivity property.
+
+<b>Q.4</b>
+How can you find the resistance?
+
+<b>Answer:</b>
+Use these values in Ohm's Law. If you know the total current and the voltage across the whole circuit, you can find the total resistance using Ohm's Law: R = V / I.
+
+For example, a parallel circuit has a voltage of 9 volts and total current of 3 amps. The total resistance RT = 9 volts / 3 amps = 3 Ω.
