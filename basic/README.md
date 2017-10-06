@@ -16,3 +16,5 @@ The Thévenin-equivalent resistance RTh is the resistance measured across points
 <img src="thevenin.03.png" align="center" alt="theorem"/>
 
 <img src="thevenin.04.png" align="center" alt="theorem"/>
+
+Experimental URL: http://hyperphysics.phy-astr.gsu.edu/hbase/electric/thevenin.html
