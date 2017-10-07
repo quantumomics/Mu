@@ -23,6 +23,11 @@ Physical Properties
 
 Gold is one of the metals that can be prepared readily to the highest purity 99.99+% and is the most ductile of all metals. It can be cold drawn to give wires of less than 10 mm diameter, and beaten into gold foil with a thickness of 0.2 mm. Because of its softness, gold can be highly polished. Very thin gold foil is translucent; transmitted light appears blue-green.
 
+What is the texture of silver?
+Silver is a chemical element. Its chemical symbol is Ag and atomic number is 47. Silver is a soft, shiny metal that is a good conductor of electricity. Silver is precious metal that has been used for many years to make fine pieces of jewelry, coins, utensils and various pieces of art.
+
+It is used for jewellery and silver tableware, where appearance is important. Silver is used to make mirrors, as it is the best reflector of visible light known, although it does tarnish with time. It is also used in dental alloys, solder and brazing alloys, electrical contacts and batteries.
+
 2. Background
 3. Methods
 4. Results and discussions
