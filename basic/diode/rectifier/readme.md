@@ -16,6 +16,8 @@ The resistor R2 and C1 are used to set the frequency of IC’s internal clock. C
 
 <i>Circuit Diagram:</i>
 
+<p align="center"><img src="digital.panel.meter.pcb.jpg" align="center" alt="digital"/></p>
+
 <b>Notes:</b>
 
 - Assemble the circuit on a good quality PCB.
