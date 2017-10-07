@@ -1,4 +1,7 @@
 1. https://circuitdigest.com/electronic-circuits/simple-digital-voltmeter-circuit-diagram
 2. http://www.circuitstoday.com/digital-voltmeter-using-icl7107
 
+
+A meter can measure DC voltage, current, power, charge and discharge capacity, watt, time, and other physical quantities, parameters can be set overcurrent protection, overvoltage protection, undervoltage protection, limit protection and more species protection, the instrument is very suitable for use in electrical work process parameters voltage, current, watts, etc. to monitor, can also be used for battery charging and discharging process of monitoring capacity.
+
 oh: https://www.aliexpress.com/store/product/DC-120v-300A-LCD-Combo-Meter-Wireless-voltmeter-current-KWh-Watt-Meter-Battery-Capacity-tester/1291787_32702710777.html
