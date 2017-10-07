@@ -1,7 +1,7 @@
 # Chemistry of <i>μ</i>
 
 
-## Atomic structure of microstrip gold (Au<sub>79</sub>) conductive tracks.
+## The atomic structure of gold (Au<sub>79</sub>) microstripe conductive tracks.
 
 Abstract
 1. Introduction
