@@ -9,12 +9,12 @@ Thevenin's Theorem states that it is possible to simplify any linear circuit, no
 
 The Thévenin-equivalent resistance RTh is the resistance measured across points A and B "looking back" into the circuit. It is important to first replace all voltage- and current-sources with their internal resistances. For an ideal voltage source, this means replace the voltage source with a short circuit.
 
-<p align="center"><img src="thevenin.01.png" align="center" alt="theorem"/></p>
+<p align="center"><img src="thevenin.01.png" align="center" alt="theorem"/></br><b>Fig.01</b></p>
 
-<p align="center"><img src="thevenin.02.png" align="center" alt="theorem"/></p>
+<p align="center"><img src="thevenin.02.png" align="center" alt="theorem"/></br><b>Fig.02</b></p>
 
-<p align="center"><img src="thevenin.03.png" align="center" alt="theorem"/></p>
+<p align="center"><img src="thevenin.03.png" align="center" alt="theorem"/></br><b>Fig.03</b></p>
 
-<p align="center"><img src="thevenin.04.png" align="center" alt="theorem"/></p>
+<p align="center"><img src="thevenin.04.png" align="center" alt="theorem"/></br><b>Fig.04</b></p>
 
 Experimental URL: http://hyperphysics.phy-astr.gsu.edu/hbase/electric/thevenin.html
