@@ -15,3 +15,12 @@ The working of this electronic circuit is very simple. The voltage to be measure
 The resistor R2 and C1 are used to set the frequency of IC’s internal clock. Capacitor C2 neutralizes the fluctuations in the internal reference voltage and increases the stability of the display.R4 controls the range of the voltmeter. Right most three displays are connected so that they can display all digits. The left most display is so connected that it can display only “1” and “-“.The pin5(representing the dot) is connected to ground only for the third display and its position needs to be changed when you change the range of the volt meter by altering R4. (R4=1.2K gives 0-20V range, R4=12K gives 0-200V range ).
 
 <i>Circuit Diagram:</i>
+
+<b>Notes:</b>
+
+- Assemble the circuit on a good quality PCB.
+- The circuit can be powered from a (+/-)5V dual supply.
+- For calibration, power up the circuit and short the input terminals. Then adjust R6 so that the display reads 0V.
+- The ICL7107 is a CMOS device and it is very sensitive to static electricity. So avoid touching the IC pins with your bare hands.
+- The seven segment displays must by common anode type.
+- I assembled this circuit few years back and it is still working fine.
