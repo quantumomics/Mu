@@ -15,6 +15,14 @@ Gold is a precious metal that is associated with wealth, grandeur, and prosperit
 
 Gold: physical properties. Gold is a soft metal with a number of interesting physical properties. Gold is both malleable and ductile. Gold is a heavy metal (density 19.3 g cm-3) and one gram of gold can be hammered out into a thin sheet of gold a metre in area, and just 230 atoms or so thick.
 
+
+Gold is the first element recognized by man as a metal. Ancient Egypt was the principal gold producing country and maintained that status until ca. 1500 BC. Gold has been valued since ancient times because of its color, its occurrence in the native state, and its non-tarnishing properties. It was established as the standard for currency by Newton in 1717 when he was Master of the Mint in London. Gold Rushes were responsible for creating large cities like San Francisco, Johannesburg, Sydney, and others.
+
+
+Physical Properties
+
+Gold is one of the metals that can be prepared readily to the highest purity 99.99+% and is the most ductile of all metals. It can be cold drawn to give wires of less than 10 mm diameter, and beaten into gold foil with a thickness of 0.2 mm. Because of its softness, gold can be highly polished. Very thin gold foil is translucent; transmitted light appears blue-green.
+
 2. Background
 3. Methods
 4. Results and discussions
