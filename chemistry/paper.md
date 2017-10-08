@@ -7,3 +7,5 @@ Eutectic alloys for soldering, composed of tin (Sn), lead (Pb) and sometimes sil
 References
 1. Thermal properties of Sn-based solder alloys. Morando, C., Fornaro, O., Garbellini, O. et al. J Mater Sci: Mater Electron (2014) 25: 3440. DOI: https://doi.org/10.1007/s10854-014-2036-6.
 2. Morando, Carina & Fornaro, Osvaldo & Garbellini, Olga & Palacio, Hugo. (2014). Thermal Properties of Sn-based Solder Alloys. J. Mater. Sci.: Mater. Electron. 25. 3440-3447. DOI: https://doi.org/10.1007/s10854-014-2036-6.
+3. Karakaya, I. & Thompson, W.T. Bulletin of Alloy Phase Diagrams (1987) 8: 326. DOI: https://doi.org/10.1007/BF02869268.
+4. Franke P., Neuschütz D., Scientific Group Thermodata Europe (SGTE) () Au-Pb (Gold - Lead). In: Franke P., Neuschütz D. (eds) Binary Systems. Part 5: Binary Systems Supplement 1. Landolt-Börnstein - Group IV Physical Chemistry (Numerical Data and Functional Relationships in Science and Technology), vol 19B5. Springer, Berlin, Heidelberg. DOI: https://doi.org/10.1007/978-3-540-45280-5_31.
