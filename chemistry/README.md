@@ -50,3 +50,7 @@ Appendix A. Supplementary Data
 Appendix B. Supplementary Data
 
 References
+
+1. Electric and magnetic field generation and target heating by laser-generated fast electrons.
+J. R. Davies
+Phys. Rev. E 68, 056404 – Published 20 November 2003
