@@ -1,11 +1,11 @@
 # Soldering wire
 
 <b>Au<sub>79</sub></b> has electrical resistivity (<i>ρ</i>) — 022.14 nΩ·m (at 20.0 °C), and thermal conductivity — 318.0 W/(m·K).
-ag has electrical resistivity — 015.87 nΩ·m (at 20.0 °C), and thermal conductivity — 429.0 W/(m·K).
-pt has electrical resistivity — 105.00 nΩ·m (at 20.0 °C), and thermal conductivity — 071.6 W/(m·K).
-cu has electrical resistivity — 016.78 nΩ·m (at 20.0 °C), and thermal conductivity — 401.0 W/(m·K).
-sn has electrical resistivity — 115.00 nΩ·m (at 00.0 °C), and thermal conductivity — 066.8 W/(m·K).
-pb has electrical resistivity — 208.00 nΩ·m (at 20.0 °C), and thermal conductivity — 035.3 W/(m·K).
+<b>Ag<sub>47</sub></b> has electrical resistivity — 015.87 nΩ·m (at 20.0 °C), and thermal conductivity — 429.0 W/(m·K).
+<b>Pt<sub>78</sub></b> has electrical resistivity — 105.00 nΩ·m (at 20.0 °C), and thermal conductivity — 071.6 W/(m·K).
+<b>Cu<sub>29</sub></b> has electrical resistivity — 016.78 nΩ·m (at 20.0 °C), and thermal conductivity — 401.0 W/(m·K).
+<b>Sn<sub>79</sub></b> has electrical resistivity — 115.00 nΩ·m (at 00.0 °C), and thermal conductivity — 066.8 W/(m·K).
+<b>Pb<sub>79</sub></b> has electrical resistivity — 208.00 nΩ·m (at 20.0 °C), and thermal conductivity — 035.3 W/(m·K).
 
 Solder is basically metal wire with a "low" melting point, where low for our purposes means low enough to be melted with a soldering iron. For electronics, it is traditionally a mix of tin (Sn<sup>50</sup>) and lead (pb<sup>82</sup>). Tin has a lower melting point (231.93 °C) than Lead (327.5 °C), So more tin means a lower melting point.
 
