@@ -1,5 +1,7 @@
 # Soldering wire
 
+sn has electrical resistivity — 115 nΩ·m (at 00.0 °C), and thermal conductivity — 66.8 W/(m·K).
+pb has electrical resistivity — 208 nΩ·m (at 20.0 °C), and thermal conductivity — 35.3 W/(m·K).
 
 Solder is basically metal wire with a "low" melting point, where low for our purposes means low enough to be melted with a soldering iron. For electronics, it is traditionally a mix of tin (Sn<sup>50</sup>) and lead (pb<sup>82</sup>). Tin has a lower melting point (231.93 °C) than Lead (327.5 °C), So more tin means a lower melting point.
 
