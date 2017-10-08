@@ -23,6 +23,12 @@ Eutectic alloys for soldering, composed of tin (Sn), lead (Pb) and sometimes sil
 
 
 
+
+Mylar® polyester film retains good physical proper- ties over a wide temperature range (–70 to 150°C [–94 to 302°F]), and it is also used at temperatures from –250 to 200°C (–418 to 392°F) when the physical requirements are not as demanding. Some physical and thermal properties of Mylar® are summarized in Table.
+
+Mylar® A films have balanced tensile properties and excellent resistance to moisture and most chemicals. They can withstand temperature extremes from -100°F to 300ºF. Mylar® does not become brittle with age under normal conditions, because it contains no plasticizers.
+
+
 <b>References:</b>
 1. Thermal properties of Sn-based solder alloys. Morando, C., Fornaro, O., Garbellini, O. et al. J Mater Sci: Mater Electron (2014) 25: 3440. DOI: https://doi.org/10.1007/s10854-014-2036-6.
 2. Morando, Carina & Fornaro, Osvaldo & Garbellini, Olga & Palacio, Hugo. (2014). Thermal Properties of Sn-based Solder Alloys. J. Mater. Sci.: Mater. Electron. 25. 3440-3447. DOI: https://doi.org/10.1007/s10854-014-2036-6.
