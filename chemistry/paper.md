@@ -1,6 +1,13 @@
 # Soldering wire
 
 
+Solder is basically metal wire with a "low" melting point, where low for our purposes means low enough to be melted with a soldering iron. For electronics, it is traditionally a mix of tin (Sn<sup>50</sup>) and lead (pb<sup>82</sup>). Tin has a lower melting point (231.93 °C) than Lead (327.5 °C), So more tin means a lower melting point.
+
+
+
+
+
+
 Eutectic alloys for soldering, composed of tin (Sn), lead (Pb) and sometimes silver (Ag) or gold (Au) — especially Sn<sub>63</sub>Pb<sub>37</sub> alloy formula for electronics.
 
 
