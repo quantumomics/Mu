@@ -1,5 +1,9 @@
 # Soldering wire
 
+
+<b>Pt<sub>78</sub></b> has electrical resistivity — 105.00 nΩ·m (at 20.0 °C), and thermal conductivity — 071.6 W/(m·K).
+
+
 <b>Au<sub>79</sub></b> has electrical resistivity (<i>ρ</i>) — 022.14 nΩ·m (at 20.0 °C), and thermal conductivity — 318.0 W/(m·K).
 <b>Ag<sub>47</sub></b> has electrical resistivity — 015.87 nΩ·m (at 20.0 °C), and thermal conductivity — 429.0 W/(m·K).
 <b>Pt<sub>78</sub></b> has electrical resistivity — 105.00 nΩ·m (at 20.0 °C), and thermal conductivity — 071.6 W/(m·K).
