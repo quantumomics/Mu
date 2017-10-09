@@ -22,6 +22,14 @@ Mylar<sup>®</sup>,
 One of the outstanding properties of Mylar® Type C polyester film is its high insulation resistance over a wide temperature range. Of the commonly used dielectrics, only polystyrene and polyethylene exhibit a higher resistivity, but their use is limited by a relatively low softening temperature.
 
 
+Melinex® and Mylar® polyester films offer superior optical, physical, mechanical, thermal, and chemical properties. ..
+
+Mylar® A films are tough, general purpose films that are transparent in 48 through 92 gauge and translucent in heavier gauges.
+
+
+
+
+
 As with most materials, the AC dielectric strength in kV/mm decreases as the film thickness increases. For instance, 6 µm Mylar® film has a dielectric strength of over 600 kV/mm while 350µm Mylar® has a dielectric strength of about 80 kV/mm at 25°C.
 
 
