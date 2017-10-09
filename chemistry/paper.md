@@ -96,3 +96,6 @@ Mylar® A films have balanced tensile properties and excellent resistance to moi
 3. Karakaya, I. & Thompson, W.T. Bulletin of Alloy Phase Diagrams (1987) 8: 326. DOI: https://doi.org/10.1007/BF02869268.
 4. Franke P., Neuschütz D., Scientific Group Thermodata Europe (SGTE) () Au-Pb (Gold - Lead). In: Franke P., Neuschütz D. (eds) Binary Systems. Part 5: Binary Systems Supplement 1. Landolt-Börnstein - Group IV Physical Chemistry (Numerical Data and Functional Relationships in Science and Technology), vol 19B5. Springer, Berlin, Heidelberg. DOI: https://doi.org/10.1007/978-3-540-45280-5_31.
 5. http://www.google.la/patents/US6330967.
+6. H. van Houten & C.W.J. Beenakker (1996). "Quantum point contacts". Physics Today. 49 (7): 22–27. Bibcode:1996PhT....49g..22V. arXiv:cond-mat/0512609 Freely accessible. doi:10.1063/1.881503.
+7. C.W.J.Beenakker and H. van Houten (1991). "Quantum Transport in Semiconductor Nanostructures". Solid State Physics. 44: 1. Bibcode:2004cond.mat.12664B. arXiv:cond-mat/0412664 Freely accessible. doi:10.1016/s0081-1947(08)60091-0
+
