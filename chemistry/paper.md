@@ -15,7 +15,7 @@ Solder is basically metal wire with a "low" melting point, where low for our pur
 
 Eutectic relating to or denoting a mixture of substances (in fixed proportions) that melts and freezes at a single temperature that is lower than the melting points of the separate constituents or of any other mixture of them. Generally, "The eutectic mixture melts at 183°C".
 
-Eutectic alloys for soldering, composed of tin (Sn), lead (Pb) and sometimes silver (Ag) or gold (Au) — especially Sn<sub>63</sub>Pb<sub>37</sub> alloy formula for electronics.
+Eutectic alloys for soldering, composed of tin (Sn<sub>50</sub>), lead (Pb<sub>82</sub>) and sometimes silver (Ag<sub>47</sub>) or gold (Au<sub>79</sub>) — especially Sn<sub>63</sub>Pb<sub>37</sub> alloy formula for electronics.
 
 
 
