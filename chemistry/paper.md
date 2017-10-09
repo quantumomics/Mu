@@ -1,6 +1,8 @@
 # A precise study of the metal-metal-metal contact energy for electronics.
 
 
+Keywords:
+
 <b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>) — 105.00 nΩ·m (at 20.0 °C), electrical conductivity (<i>σ</i>) — 9.43×10<sup>6</sup> (S/m) at 20 °C, and thermal conductivity — 071.6 W/(m·K).
 
 
@@ -27,6 +29,11 @@ Melinex® and Mylar® polyester films offer superior optical, physical, mechanic
 Mylar® A films are tough, general purpose films that are transparent in 48 through 92 gauge and translucent in heavier gauges.
 
 
+http://www.yutopian.com/Yuan/prop/Mylar.html
+
+
+
+The Kapitza resistance and the thermal conductivity of type A Mylar sheets in the temperature range between 1.4 and 2.1 K have been determined. Four sheets with varying thickness from 37 μm to 255 μm, have been tested in steady-state condition. For a small temperature difference (10–30 mK) and heat flux density smaller than 30 Wm−2, the total thermal resistance of the sheet is determined as a function of sheet thickness and bath temperature. The Kapitza resistance is given by RK = (1.28 ± 0.08)T−3 × 10−3 Km2 W−1, and the thermal conductivity, κ = [(8.83 ± 0.75) + (11.73 ± 0.43) × T] × 10−3 Wm−1 K−1.
 
 
 
