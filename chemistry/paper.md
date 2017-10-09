@@ -20,14 +20,16 @@ Nomenclature
 References
 
 
-The Kapitza thermal boundary resistance.
+1. The Kapitza thermal boundary resistance. Peterson, R.E. & Anderson, A.C. J Low Temp Phys (1973) 11: 639. DOI: https://doi.org/10.1007/BF00654451.
 
-Peterson, R.E. & Anderson, A.C. J Low Temp Phys (1973) 11: 639. https://doi.org/10.1007/BF00654451
-DOI: https://doi.org/10.1007/BF00654451.
+2. Kapitza resistance: Axiomatic acoustic mismatch theory with loss. Strandberg, M.W.P. & Fox, L.R. J Low Temp Phys (1979) 34: 17. DOI: https://doi.org/10.1007/BF00118547.
 
+3. Thermal boundary resistance (Kapitza resistance) at interfaces between copper and type−II superconductors. C. SchmidtView. Journal of Applied Physics 46, 1372 (1975). DOI: http://dx.doi.org/10.1063/1.321734.
 
 
 <b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>) — 105.00 nΩ·m (at 20.0 °C), electrical conductivity (<i>σ</i>) — 9.43×10<sup>6</sup> (S/m) at 20 °C, and thermal conductivity — 071.6 W/(m·K).
+
+A thermal boundary resistance (Kapitza resistance) occurs at interfaces between two metals if one of these metals is superconducting. Experiments performed on interfaces of Nb−Cu and NbTi−Cu indicated values of the Kapitza resistance which exceeded the prediction based on the acoustic mismatch theory. In light of these studies it is shown that the thermal boundary resistance must not be neglected in the stability considerations of technical multifilament superconductors.
 
 
 <b>Au<sub>79</sub></b> has electrical resistivity (<i>ρ</i>) — 022.14 nΩ·m (at 20.0 °C), and thermal conductivity — 318.0 W/(m·K).
