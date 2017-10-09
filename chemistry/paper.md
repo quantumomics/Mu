@@ -3,6 +3,30 @@
 
 Keywords:
 
+
+
+Outline
+Abstract
+Keywords
+Nomenclature
+1. Introduction
+2. Experimental set-up and error analysis
+2.1. Experimental set-up and principle
+2.2. Error analysis
+3. Results and discussion
+3.1. Thermal conductivity
+3.2. Kapitza resistance
+4. Conclusion
+References
+
+
+The Kapitza thermal boundary resistance.
+
+Peterson, R.E. & Anderson, A.C. J Low Temp Phys (1973) 11: 639. https://doi.org/10.1007/BF00654451
+DOI: https://doi.org/10.1007/BF00654451.
+
+
+
 <b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>) — 105.00 nΩ·m (at 20.0 °C), electrical conductivity (<i>σ</i>) — 9.43×10<sup>6</sup> (S/m) at 20 °C, and thermal conductivity — 071.6 W/(m·K).
 
 
