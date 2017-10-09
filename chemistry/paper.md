@@ -4,6 +4,18 @@
 Keywords:
 
 
+Metal has their intrinsic and extrinsic properties.
+
+<b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>), electrical conductivity (<i>σ</i>), and thermal conductivity (<i>κ</i>) — 105.00 nΩ·m at 20.0 °C, 9.43×10<sup>6</sup> (S/m) at 20 °C, and 071.6 W/(m·K).
+
+
+
+
+
+<b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>) — 105.00 nΩ·m (at 20.0 °C), electrical conductivity (<i>σ</i>) — 9.43×10<sup>6</sup> (S/m) at 20 °C, and thermal conductivity — 071.6 W/(m·K).
+
+
+
 
 Outline
 Abstract
