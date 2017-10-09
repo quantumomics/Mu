@@ -17,8 +17,12 @@ Eutectic relating to or denoting a mixture of substances (in fixed proportions) 
 
 Eutectic alloys for soldering, composed of tin (Sn<sub>50</sub>), lead (Pb<sub>82</sub>) and sometimes silver (Ag<sub>47</sub>) or gold (Au<sub>79</sub>) — especially Sn<sub>63</sub>Pb<sub>37</sub> alloy formula for electronics.
 
+Mylar<sup>®</sup>,
+
+One of the outstanding properties of Mylar® Type C polyester film is its high insulation resistance over a wide temperature range. Of the commonly used dielectrics, only polystyrene and polyethylene exhibit a higher resistivity, but their use is limited by a relatively low softening temperature.
 
 
+As with most materials, the AC dielectric strength in kV/mm decreases as the film thickness increases. For instance, 6 µm Mylar® film has a dielectric strength of over 600 kV/mm while 350µm Mylar® has a dielectric strength of about 80 kV/mm at 25°C.
 
 
 Mylar® polyester film retains good physical proper- ties over a wide temperature range (–70 to 150°C [–94 to 302°F]), and it is also used at temperatures from –250 to 200°C (–418 to 392°F) when the physical requirements are not as demanding. Some physical and thermal properties of Mylar® are summarized in Table.
