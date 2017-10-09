@@ -2,6 +2,7 @@
 
 
 Keywords:
+Mylar Polymer, Thermal conductivity, Kapitza resistance
 
 
 Metal has their intrinsic and extrinsic properties.
@@ -32,6 +33,10 @@ Nomenclature
 3.2. Kapitza resistance
 4. Conclusion
 References
+
+
+
+The Kapitza resistance and the thermal conductivity of type A Mylar<sup>®</sup> sheets in the temperature range between 1.4 and 2.1 °K have been determined. Four sheets with varying thickness from 37 μm to 255 μm, have been tested in steady-state condition. For a small temperature difference (10–30 mK) and heat flux density smaller than 30 Wm<sup>−2</sup>, the total thermal resistance of the sheet is determined as a function of sheet thickness and bath temperature. The Kapitza resistance is given by R<sub>K</sub> = (1.28 ± 0.08)T<sup>−3</sup> × 10−3 Km<sup>2</sup> W<sup>−1</sup>, and the thermal conductivity, κ = [(8.83 ± 0.75) + (11.73 ± 0.43) × T] × 10<sup>−3</sup> Wm<sup>−1</sup> K<sup>−1</sup>.
 
 
 1. The Kapitza thermal boundary resistance. Peterson, R.E. & Anderson, A.C. J Low Temp Phys (1973) 11: 639. DOI: https://doi.org/10.1007/BF00654451.
