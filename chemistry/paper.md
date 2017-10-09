@@ -15,7 +15,7 @@ Metal has their intrinsic and extrinsic properties.
 <b>Pt<sub>78</sub></b> has electrical resistivity (<i>ρ</i>) — 105.00 nΩ·m (at 20.0 °C), electrical conductivity (<i>σ</i>) — 9.43×10<sup>6</sup> (S/m) at 20 °C, and thermal conductivity — 071.6 W/(m·K).
 
 
-
+The term contact resistance refers to the contribution to the total resistance of a system which can be attributed to the contacting interfaces of electrical leads and connections as opposed to the intrinsic resistance, which is an inherent property, independent of the measurement method. This effect is often described by the term Electrical Contact Resistance or ECR and may vary with time, most often decreasing, in a process known as resistance creep. The idea of potential drop on the injection electrode was introduced by William Shockley to explain the difference between the experimental results and the model of gradual channel approximation. In addition to the term ECR, "Interface resistance", "transitional resistance", or just simply "correction term" are also used. The term "parasitic resistance" has been used as a more general term, where it is usually still assumed that the contact resistance has a major contribution. Experimental characterization Here we need to distinguish the contact resistance evaluation in two-electrode systems (e.g. diodes) and three-electrode systems (e.g. transistors).
 
 Outline
 Abstract
