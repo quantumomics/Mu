@@ -18,3 +18,15 @@ The Thévenin-equivalent resistance RTh is the resistance measured across points
 <p align="center"><img src="thevenin.04.png" align="center" alt="theorem"/></br><b>Fig.04</b></p>
 
 Experimental URL: http://hyperphysics.phy-astr.gsu.edu/hbase/electric/thevenin.html
+
+<b>Project:1</b>
+
+Learn, how to make a thevenin resistance, and to illuminate the LEDs.
+
+<b>A.</b>
+
+R1 = 180 ohm</br>
+R2 = 100 ohm</br>
+R3 = 100 ohm</br>
+If Voltage = 3.0</br>
+Output = 1.0714v
