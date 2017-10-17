@@ -30,3 +30,12 @@ R2 = 100 ohm</br>
 R3 = 100 ohm</br>
 If Voltage = 3.0</br>
 Output = 1.0714v
+
+<b>B.</b>
+
+R1 = 470 ohm</br>
+R2 = 100 ohm</br>
+R3 = 100 ohm</br>
+If Voltage = 6.0</br>
+Output = 1.052v
+
