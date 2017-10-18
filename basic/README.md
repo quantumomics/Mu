@@ -33,6 +33,14 @@ Output = 1.0714v
 
 <b>B.</b>
 
+R1 = 350 ohm</br>
+R2 = 100 ohm</br>
+R3 = 100 ohm</br>
+If Voltage = 4.5</br>
+Output = 1.00v
+
+<b>B.</b>
+
 R1 = 470 ohm</br>
 R2 = 100 ohm</br>
 R3 = 100 ohm</br>
