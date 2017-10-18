@@ -54,11 +54,3 @@ R2 = 100 ohm</br>
 R3 = 100 ohm</br>
 If Voltage = 6.0</br>
 Output = 1.052v
-
-<b>C.</b>
-
-R1 = 50 ohm</br>
-R2 = 100 ohm</br>
-R3 = 100 ohm</br>
-If Voltage = 1.5</br>
-Output = 1.00v
