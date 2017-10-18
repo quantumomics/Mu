@@ -25,13 +25,21 @@ Learn, how to make a thevenin resistance, and to illuminate the LEDs.
 
 <b>A.</b>
 
+R1 = 50 ohm</br>
+R2 = 100 ohm</br>
+R3 = 100 ohm</br>
+If Voltage = 1.5</br>
+Output = 1.00v
+
+<b>B.</b>
+
 R1 = 180 ohm</br>
 R2 = 100 ohm</br>
 R3 = 100 ohm</br>
 If Voltage = 3.0</br>
 Output = 1.0714v
 
-<b>B.</b>
+<b>C.</b>
 
 R1 = 350 ohm</br>
 R2 = 100 ohm</br>
@@ -39,7 +47,7 @@ R3 = 100 ohm</br>
 If Voltage = 4.5</br>
 Output = 1.00v
 
-<b>B.</b>
+<b>D.</b>
 
 R1 = 470 ohm</br>
 R2 = 100 ohm</br>
@@ -54,4 +62,3 @@ R2 = 100 ohm</br>
 R3 = 100 ohm</br>
 If Voltage = 1.5</br>
 Output = 1.00v
-
